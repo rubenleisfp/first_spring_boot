@@ -20,7 +20,7 @@
         <appender-ref ref="CONSOLE"/>
     </root>
 
-    <!-- Configuración específica para el paquete com.castelaofp.first_spring_boot.repository.
+    <!-- Configuración específica para el paquete com.fp
      Cualquier traza a DEBUG o superior se verá en el fichero -->
     <logger name="com.fp" level="DEBUG">
         <appender-ref ref="FILE"/>
