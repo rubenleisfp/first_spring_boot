@@ -1,4 +1,4 @@
-package com.castelaofp.first_spring_boot;
+package com.fp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

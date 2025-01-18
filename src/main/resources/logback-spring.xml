@@ -22,7 +22,7 @@
 
     <!-- Configuración específica para el paquete com.castelaofp.first_spring_boot.repository.
      Cualquier traza a DEBUG o superior se verá en el fichero -->
-    <logger name="com.castelaofp.first_spring_boot" level="DEBUG">
+    <logger name="com.fp" level="DEBUG">
         <appender-ref ref="FILE"/>
     </logger>
 </configuration>
